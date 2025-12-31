@@ -21,7 +21,7 @@ energy sources.
 -   XGBoost
 -   SVR
 -   Decision Tree
--   KNN
+-   Lstm
 
 ## 📈 Evaluation Metrics
 
